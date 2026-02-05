@@ -6,12 +6,6 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Production+AI+Systems;3+Live+Deployments+in+4+Months;The+Honest+Builder+-+Faster+and+Cheaper" alt="Typing SVG" /></a>
 
-<!-- Profile Views & Social Badges -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=aditya-ai-architect&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/aditya-ai-architect?tab=followers"><img src="https://img.shields.io/github/followers/aditya-ai-architect?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"></a>
-</p>
-
 </div>
 
 ---
