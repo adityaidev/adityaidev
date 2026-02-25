@@ -21,7 +21,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-**`> whoami`** — Architecting production AI systems where reliability, latency, and execution quality are first-class requirements.
+**Building production AI systems** where reliability, latency, and execution quality are first-class requirements.
 
 </div>
 
@@ -174,11 +174,7 @@
 
 <div align="center">
 
-```
-> building autonomous systems that think deeper, respond faster, and stay reliable in production.
-
-_ cursor blinking...
-```
+*Building autonomous systems that think deeper, respond faster, and stay reliable in production.*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=adityaidev&label=Profile%20Views&color=00FF94&style=for-the-badge)
 
