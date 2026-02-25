@@ -1,173 +1,110 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dpdttqyow/image/upload/f_auto,q_auto,w_300/v1768512786/Screenshot_2026-01-198_v3bwry.png" alt="Aditya Gaurav" width="200" style="margin: 40px 0;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF88&height=180&section=header&text=Aditya%20Gaurav&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%20Systems%20Architect%20%7C%20Production%20Engineering&descAlignY=75&descSize=20" alt="Header Banner" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=Production-Ready+AI+Systems;Multi-Agent+Orchestration;Real-Time+Voice+Intelligence;Constraint-Safe+Reasoning" alt="Animated Typing" />
-</p>
+<div align="center">
+  <img src="https://res.cloudinary.com/dpdttqyow/image/upload/f_auto,q_auto,w_300/v1768512786/Screenshot_2026-01-198_v3bwry.png" alt="Aditya Gaurav" width="160" style="margin: 20px 0;" />
 
+  <br/>
 
-<h1 align="center">ADITYA GAURAV</h1>
-<h3 align="center">AI Systems Architect | Production Engineering | Multi-Agent Orchestration</h3>
-
-<p align="center">
-  <strong>I don't build tools. I build Thinking Systems.</strong>
-</p>
-
-<p align="center">
-  <a href="https://adityaai.dev">Portfolio</a> • 
-  <a href="https://linkedin.com/in/aditya-gaurav-2761b3318">LinkedIn</a> • 
-  <a href="https://x.com/aditya_ai_dev">Twitter</a> • 
-  <a href="mailto:aiexpert@adityaai.dev">Email</a>
-</p>
-
----
-
-## CORE PHILOSOPHY
-
-**Productized Execution. Clear Scope. Real Delivery.**
-
-Building production-grade autonomous systems that ship in weeks, not months. Focused on:
-- Production-ready architectures
-- Multi-agent orchestration pipelines
-- Real-time voice AI systems
-- Reliable constraint-aware agentic design
-
----
-
-## LIVE SYSTEMS
-
-### F.R.I.D.A.Y
-**Generative Immersive Visual Intelligence Engine**
-
-- **What it does**: Real-time 3D engineering diagnostics powered by Gemini
-- **Performance**: 96% faster diagnostics (120 min → 5 min)
-- **Tech**: React • Three.js • Gemini • TypeScript • GCP
-- **Flow**: System design generation → Real-time visualization → Diagnostic analysis
-- **Live Demo**: [friday-demo-neon.vercel.app](https://friday-demo-neon.vercel.app)
-- **Key Innovation**: BYOK (Bring Your Own Key) architecture - no shared backend, secure client-side API integration
-
-### Sentinel
-**Autonomous Competitive Intelligence System**
-
-- **What it does**: Multi-agent pipeline for autonomous competitor analysis
-- **Performance**: 95% faster research cycles (days → minutes)
-- **Tech**: Gemini • TypeScript • 5-Agent Chain • GCP • Structured Outputs
-- **Architecture**: Signal collection → Multi-agent analysis → Scored reporting
-- **Live Demo**: [sentinel-demo-coral.vercel.app](https://sentinel-demo-coral.vercel.app)
-- **Key Innovation**: Autonomous multi-agent orchestration with constraint-aware decision logic
-
-### EdGrab
-**Real-Time Voice AI Tutoring System**
-
-- **What it does**: Persistent context AI tutor with sub-500ms voice loop
-- **Performance**: Sub-500ms interaction latency with memory-aware tutoring
-- **Tech**: Gemini Live • Vertex AI • WebSockets • PostgreSQL • TypeScript
-- **Flow**: Voice input → Persistent context retrieval → Real-time generation → Voice output
-- **Live Demo**: [edgrab-demo.vercel.app](https://edgrab-demo.vercel.app)
-- **Key Innovation**: True streaming voice interface with persistent knowledge base integration
-
----
-
-## OPEN SOURCE INFRASTRUCTURE
-
-### owl07
-**Project-First MCP Server Manager**
-
-- **Problem**: MCP servers scattered across teams, no versioned config, local dev hell
-- **Solution**: Homebrew-like package manager for MCP servers
-- **What it solves**: Reusable MCP environment management with versioned configs
-- **Tech**: TypeScript • Node.js • MCP Protocol
-- **Use Case**: Teams managing multiple MCP server instances without dependency chaos
-- **Repo**: [github.com/adityaidev/owl07](https://github.com/adityaidev/owl07)
-
-### twitter-mcp
-**Twitter/X Automation MCP Server**
-
-- **Problem**: Twitter API complexity, rate limits, authentication headaches
-- **Solution**: MCP server with production-ready automation
-- **Capabilities**: Tweet search • List management • Engagement automation • Cookie-based auth
-- **Tech**: TypeScript • Puppeteer • MCP Protocol
-- **Key Feature**: Zero API key dependency - pure browser automation
-- **Repo**: [github.com/adityaidev/twitter-mcp](https://github.com/adityaidev/twitter-mcp)
-
-### Lindin-Sales-and-Navigator-MCP
-**LinkedIn Sales Navigator Automation**
-
-- **Problem**: LinkedIn API is restricted, Sales Navigator needs automation
-- **Solution**: MCP server with account-based lead intelligence
-- **Capabilities**: Lead discovery • Outreach workflow automation • Account research
-- **Tech**: TypeScript • Puppeteer • MCP Protocol
-- **Key Feature**: Automated lead intelligence and workflow acceleration
-- **Repo**: [github.com/adityaidev/Lindin-Sales-and-Navigator-MCP](https://github.com/adityaidev/Lindin-Sales-and-Navigator-MCP)
-
----
-
-## EXPERTISE AREAS
-
-| Domain | Depth |
-|--------|-------|
-| **Multi-Agent AI Systems** | Production orchestration, constraint reasoning, reliability patterns |
-| **Real-Time Voice AI** | Sub-500ms latency, streaming architectures, context management |
-| **Competitive Intelligence** | Autonomous research pipelines, multi-source aggregation, structured outputs |
-| **3D/Engineering AI** | Visual intelligence, generative design, real-time simulation |
-| **MCP Development** | Server design, authentication, production deployment |
-| **Claude Integration** | Advanced prompting, agentic patterns, structured outputs |
-| **Cloud Infrastructure** | GCP deployment, cost optimization, scalability patterns |
-| **TypeScript/Node.js** | Full-stack systems, real-time architecture, production reliability |
-
----
-
-## TECH FOUNDATION
-
-**AI Models**: Claude 3.5 (reasoning) • Gemini (vision + streaming) • Custom multi-agent pipelines
-
-**Frontend**: React • TypeScript • Three.js (3D) • WebSockets (real-time)
-
-**Backend**: Node.js • TypeScript • PostgreSQL • GCP (Cloud Run, Firestore)
-
-**DevOps**: Vercel deployment • CI/CD automation • Production monitoring
-
-**Protocols**: MCP (Model Context Protocol) • REST APIs • WebSocket streams
-
----
-
-## WHAT'S NEXT
-
-**Research**: Constraint-safe agentic architecture for reliability under edge cases
-- Consistency guarantees in distributed agent networks
-- Latency optimization for real-time systems
-- Orchestration safety patterns
-
----
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=I+build+Production-Ready+AI+Systems;Multi-Agent+Orchestration;Real-Time+Voice+Intelligence;Agentic+Software+Services" alt="Animated Typing" />
+</div>
 
 <div align="center">
-
-## 📊 GITHUB STATS
-
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaidev&theme=dark&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=00FF88" alt="GitHub Streak" />
+  <a href="https://adityaai.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=00FF88&borderColor=00FF88" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/aditya-gaurav-2761b3318"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/aditya_ai_dev"><img src="https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:aiexpert@adityaai.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaidev&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Terminal Hacker" style="border-radius: 8px; margin-bottom: 20px; filter: hue-rotate(80deg);"/>
+</div>
 
+> **I don't build tools. I build Thinking Systems.** > Focused on productized execution, clear scope, and delivering constraint-safe agentic software services that ship in weeks, not months.
+
+---
+
+## ⚡ CORE EXPERTISE & TECH STACK
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,threejs,gcp,postgres,vercel,git,linux,docker&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+| Domain | Depth & Focus |
+|--------|---------------|
+| 🤖 **Multi-Agent Systems** | Production orchestration, agentic software services, constraint reasoning. |
+| 🎙️ **Real-Time Voice AI** | Sub-500ms latency, streaming architectures, context management. |
+| 👁️ **Visual Intelligence** | 3D/Engineering AI, generative design, real-time simulation via Gemini. |
+| 🔌 **MCP Architecture** | Server design, headless automation, zero-key production deployment. |
+
+---
+
+## 🚀 LIVE PRODUCTION SYSTEMS
+
+### 🧠 [F.R.I.D.A.Y](https://friday-demo-neon.vercel.app)
+> **Generative Immersive Visual Intelligence Engine**
+* **The Build:** Real-time 3D engineering diagnostics utilizing a BYOK (Bring Your Own Key) architecture for secure, serverless operation.
+* **Performance:** 96% faster diagnostics (120 min → 5 min).
+* **Tech:** `React` • `Three.js` • `Gemini Vision` • `TypeScript` • `GCP`
+
+### 🦅 [Sentinel](https://sentinel-demo-coral.vercel.app)
+> **Autonomous Competitive Intelligence System**
+* **The Build:** 5-Agent pipeline for automated competitor analysis featuring constraint-aware decision logic and structured outputs.
+* **Performance:** 95% faster research cycles (days → minutes).
+* **Tech:** `Gemini` • `Multi-Agent Chain` • `TypeScript` • `GCP`
+
+### 🗣️ [EdGrab](https://edgrab-demo.vercel.app)
+> **Real-Time Voice AI Tutoring System**
+* **The Build:** True streaming voice interface with persistent knowledge base integration.
+* **Performance:** Sub-500ms interaction latency with memory-aware contextual tutoring.
+* **Tech:** `Gemini Live` • `Vertex AI` • `WebSockets` • `PostgreSQL`
+
+---
+
+## 🛠️ OPEN SOURCE & MCP INFRASTRUCTURE
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/adityaidev/owl07">🦉 owl07</a></h3>
+      <p><b>Project-First MCP Server Manager</b><br/>A Homebrew-like package manager resolving MCP environment chaos. Versioned configs for reusable multi-agent environments.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/adityaidev/twitter-mcp">🐦 twitter-mcp</a></h3>
+      <p><b>Zero-Key X Automation Server</b><br/>Bypasses API rate limits via headless browser automation. Handles search, list management, and engagement natively.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/adityaidev/Lindin-Sales-and-Navigator-MCP">💼 LinkedIn Navigator MCP</a></h3>
+      <p><b>Lead Intelligence Automation</b><br/>MCP server bridging Claude/Gemini directly to LinkedIn Sales Navigator for automated lead discovery and workflow acceleration.</p>
+    </td>
+    <td width="50%">
+      <h3>🔬 Current Research</h3>
+      <p><b>Constraint-Safe Architecture</b><br/>Developing consistency guarantees in distributed agent networks and latency optimization for real-time edge cases.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaidev&theme=dark&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=00000000&stroke=00FF88" alt="GitHub Streak" />
+  <br/><br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaidev&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-
 <div align="center">
-  <h3>Looking for production AI systems?</h3>
-  <p>Let's talk about your architecture</p>
-  <a href="https://adityaai.dev">Visit Portfolio</a> | 
-  <a href="mailto:aiexpert@adityaai.dev">Get In Touch</a>
-</div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20Future%20of%20AI&fontSize=24&fontColor=fff&animation=twinkling" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF88&height=120&section=footer&text=Let's%20build%20the%20future%20of%20AI.&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </div>
