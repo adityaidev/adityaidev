@@ -124,23 +124,13 @@
 
 ## 🏆 Credentials
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          CLOUD CERTIFICATIONS                                ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  Google Cloud Skill Badges (19)    →  https://credly.com/users/aditya-    ║
-║  Oracle AI Vector Search Prof       →  oracle.education/certview             ║
-║  Oracle Data Science Prof          →  oracle.education/certview             ║
-║  Oracle Cloud Infrastructure       →  oracle.education/certview             ║
-║  OpenAI Generative AI Mastery     →  nxtwave.tech/certificate             ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+| Certification | Verification |
+|:---|:---|
+| Google Cloud Skill Badges (19) | [Credly Profile](https://www.credly.com/users/aditya-gaurav.12219822/badges#credly) |
+| Oracle AI Vector Search Professional | [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E4FDD09770E6D237020A75DD7D9024DDDF4142098FA1641EAAB2CB8D2B2B69F) |
+| Oracle Data Science Professional | [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1A6F1D38013F675295039B1C4A4A22090C00355209CE06886B95D7DF8D8D08CB) |
+| Oracle Cloud Infrastructure Associate | [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=303E588DC05D0D742ED0260BD00EFB0396791BC84690D91BF007C884D8F85FED) |
+| OpenAI Generative AI Mastery | [Link](https://openai-buildathon.nxtwave.tech/certificate?cid=0VTIX2094G) |
 
 ---
 
