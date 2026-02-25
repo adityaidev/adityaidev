@@ -1,182 +1,95 @@
 <div align="center">
+  <img width="100%" alt="Neural-native hero banner" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:040404,25:0f172a,55:155e75,80:22d3ee,100:bef264&text=ADITYA%20GAURAV&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI-Native%20Systems%20Architect%20%7C%20Production-First&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<!-- Dynamic Header with Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,20&height=200&section=header&text=Aditya%20Gaurav&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Architect%20|%20Multi-Agent%20Engineer&descAlignY=56&descSize=18"/>
+  <a href="https://git.io/typing-svg">
+    <img alt="Animated intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=BEF264&center=true&vCenter=true&width=980&lines=I+don%27t+build+tools.+I+build+Thinking+Systems.;No+localhost+theater.+Only+production+AI.;Multi-Agent+Orchestration+%7C+Constraint+Reasoning+%7C+Real-Time+Voice+AI." />
+  </a>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=90&lines=The+Honest+Builder-+Faster+and+Cheaper;Building+Production+AI+Systems;Obsessed+with+Frontier+AI+Problems" alt="Typing SVG" /></a>
+  <p>
+    <img alt="Status" src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-bef264?style=for-the-badge&labelColor=0a0a0a" />
+    <img alt="Latency" src="https://img.shields.io/badge/REAL_TIME-%3C500ms-22d3ee?style=for-the-badge&labelColor=0a0a0a" />
+    <img alt="Live systems" src="https://img.shields.io/badge/LIVE_SYSTEMS-3-0ea5e9?style=for-the-badge&labelColor=0a0a0a" />
+    <img alt="Certs" src="https://img.shields.io/badge/CLOUD_CERTS-23-111827?style=for-the-badge&labelColor=0a0a0a" />
+  </p>
 
+  <p>
+    <a href="https://adityaai.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adityaai.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/aditya-gaurav-2761b3318"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Gaurav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/aditya_ai_dev"><img alt="X" src="https://img.shields.io/badge/X-@aditya__ai__dev-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="mailto:aiexpert@adityaai.dev"><img alt="Email" src="https://img.shields.io/badge/Email-aiexpert%40adityaai.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
----
+## Neural-Native Identity
+I architect **production AI systems** where reliability, latency, and execution quality are first-class requirements.
 
-```javascript
-const aditya = {
-    pronouns: "he/him",
-    location: "Sonipat, Haryana, India",
-    education: "Sainik School Rewari (Ministry of Defence)",
-    currentFocus: "Multi-Agent AI Systems & Real-Time Reasoning",
-    mission: "Ship production systems, not localhost demos"
-};
-```
+- Architecture-first, outcome-driven engineering
+- Autonomous workflows built with multi-agent orchestration
+- Low-latency interaction loops for real-world user experience
+- Constraint-safe reasoning for hard, high-stakes tasks
 
----
+## Impact Matrix
+| Signal | Outcome |
+|---|---|
+| Workflow Acceleration | **95-96% efficiency gains** in shipped systems |
+| Real-Time Performance | **sub-500ms voice interaction** |
+| Production Footprint | **3 live systems** across different domains |
+| Cloud Credibility | **23 credentials** (19 Google Cloud + 4 Oracle) |
 
-## 🚀 The Honest Builder
+## Live Systems
+| System | Domain | Result | Live |
+|---|---|---|---|
+| **F.R.I.D.A.Y** | Engineering visual intelligence | **96% faster diagnostics** (120 min -> 5 min) | [Open](https://friday-demo-neon.vercel.app) |
+| **Sentinel** | Competitive intelligence | **95% faster research cycles** | [Open](https://sentinel-demo-coral.vercel.app) |
+| **EdGrab** | AI tutoring + voice interaction | **<500ms tutoring loop** | [Open](https://edgrab-demo.vercel.app) |
 
-> *I ship production AI systems. Not demos. Real deployments that solve real problems.*
-
-I build **frontier AI systems** that explore unsolved problems — while actually delivering value. Balance between research curiosity and practical execution.
-
----
-
-## 🧠 What Keeps Me Awake at 3 AM
-
-| Question | Why It Matters |
-|----------|----------------|
-| **Constraint Reasoning** | How do agents reason reliably about constraints in real-time? |
-| **Sequential Consistency** | Maintaining reasoning consistency across sequential AI stages |
-| **Latency vs Depth** | Deep reasoning under strict latency constraints |
-| **Personalization at Scale** | Delivering depth when scaling to millions |
-
----
-
-## 🛠️ Tech Arsenal
-
+## Technical Core
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgresql,gcp,docker&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,vscode&theme=dark" />
-
+  <a href="https://skillicons.dev">
+    <img alt="Technology stack" src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,threejs,postgres,docker,gcp,tensorflow,pytorch,git,github,figma&theme=dark&perline=8" />
+  </a>
 </div>
 
----
+- **Agent Pipelines:** Router -> Hunter -> Scraper -> Analyst -> Reporter
+- **Modeling Stack:** Gemini ecosystem + production integration patterns
+- **Infra:** Cloud Run, Vertex AI, serverless APIs, observable systems
+- **Product Lens:** speed, reliability, measurable business outcomes
 
-## ⚡ Live Production Systems
+## Open Source Systems
+| Project | Role | Link |
+|---|---|---|
+| **owl07** | Project-first MCP server manager | [Repository](https://github.com/adityaidev/owl07) |
+| **twitter-mcp** | MCP server for X automation | [Repository](https://github.com/adityaidev/twitter-mcp) |
+| **Lindin-Sales-and-Navigator-MCP** | LinkedIn Sales Navigator MCP automation | [Repository](https://github.com/adityaidev/Lindin-Sales-and-Navigator-MCP) |
 
+## Verified Credentials
+| Certification | Verify |
+|---|---|
+| Google Cloud Skill Badges (19 total) | [Credly Profile](https://www.credly.com/users/aditya-gaurav.12219822/badges#credly) |
+| Oracle AI Vector Search Professional | [Verification Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E4FDD09770E6D237020A75DD7D9024DDDF4142098FA1641EAAB2CB8D2B2B69F) |
+| Oracle Data Science Professional | [Verification Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1A6F1D38013F675295039B1C4A4A22090C00355209CE06886B95D7DF8D8D08CB) |
+| Oracle Data Platform Associate | [Verification Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1A6F1D38013F675295039B1C4A4A2209D6F1E280BD6D04B3E42112B8200F19F0) |
+| Oracle Cloud Infrastructure Associate | [Verification Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=303E588DC05D0D742ED0260BD00EFB0396791BC84690D91BF007C884D8F85FED) |
+| OpenAI Generative AI Mastery (NxtWave x OpenAI) | [Verification Link](https://openai-buildathon.nxtwave.tech/certificate?cid=0VTIX2094G) |
+
+## GitHub Pulse
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### F.R.I.D.A.Y
-**Constraint-Based Generative 3D Engine**
-
-[![Live](https://img.shields.io/badge/LIVE-friday--navy.vercel.app-blue?style=for-the-badge&logo=vercel)](https://friday-navy.vercel.app)
-
-- Gemini 3.0 Pro + React Three Fiber
-- Voice, vision & gesture control
-- **120 min → 5 min** manufacturing diagnostics
-
-</td>
-<td width="50%">
-
-### Sentinel
-**Multi-Agent Orchestration Platform**
-
-[![Live](https://img.shields.io/badge/LIVE-sentinel--ten--delta.vercel.app-blue?style=for-the-badge&logo=vercel)](https://sentinel-ten-delta.vercel.app)
-
-- 5-stage agentic pipeline
-- Strict agent-to-agent protocols
-- **95% time reduction** in analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### EdGrab
-**Personalized AI Tutoring System**
-
-[![Live](https://img.shields.io/badge/LIVE-ed--grab.vercel.app-blue?style=for-the-badge&logo=vercel)](https://ed-grab.vercel.app)
-
-- Vertex AI + Gemini Live API
-- Adaptive curriculum generation
-- Sub-500ms voice latency
-
-</td>
-<td width="50%">
-
-### Twitter Algorithm
-**Open Source Contributor**
-
-[![PRs](https://img.shields.io/badge/PRs-Contributed-success?style=for-the-badge&logo=github)](https://github.com/twitter/the-algorithm)
-
-- Performance optimization
-- 31K+ star repository
-
-</td>
-</tr>
-</table>
+  <img width="94%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaidev&theme=github_dark" />
 </div>
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityaidev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaidev&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaidev&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" />
-
+  <img width="47%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaidev&theme=github_dark" />
+  <img width="47%" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaidev&theme=github_dark" />
 </div>
 
----
-
-## 🎖️ Certifications
-
-| Certification | Provider |
-|--------------|----------|
-| 19 Cloud Skill Badges | Google Cloud |
-| Data Science Professional | Oracle OCI |
-| Vector Search Specialist | Oracle OCI |
-| AI Foundations | Oracle OCI |
-| AI Agents Intensive | Kaggle |
-
----
-
-## 🔮 What's Next?
-
 <div align="center">
-
-🕭 Seeking **research-focused opportunities** to deepen technical expertise
-
-🦑 Open to collaborating on **frontier AI problems** with mentorship
-
-🚀 Building **3-4 AI products** targeting enterprise customers
-
-💰 Aiming for **product-market fit in 2.5-6 months**
-
+  <img width="47%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaidev&theme=github_dark" />
+  <img width="47%" alt="Streak" src="https://streak-stats.demolab.com?user=adityaidev&theme=dark&hide_border=true&background=0a0a0a&ring=bef264&fire=22d3ee&currStreakLabel=bef264" />
 </div>
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-adityaai.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityaai.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Gaurav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaai)
-[![Email](https://img.shields.io/badge/Email-aiexpert%40adityaai.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiexpert@adityaai.dev)
-
-</div>
-
----
+## Current Mission
+Building autonomous systems that think deeper, respond faster, and stay reliable in production.
 
 <div align="center">
-
-> **I ship production systems, not localhost demos.**
-> **The Honest Builder — faster and cheaper than agencies.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,20&height=100&section=footer&animation=twinkling"/>
-
-**Made with ☕ in India**
-
+  <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:040404,25:0f172a,55:155e75,80:22d3ee,100:bef264" />
 </div>
