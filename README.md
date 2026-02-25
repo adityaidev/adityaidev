@@ -2,6 +2,11 @@
   <img src="https://res.cloudinary.com/dpdttqyow/image/upload/f_auto,q_auto,w_300/v1768512786/Screenshot_2026-01-198_v3bwry.png" alt="Aditya Gaurav" width="200" style="margin: 40px 0;" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=Production-Ready+AI+Systems;Multi-Agent+Orchestration;Real-Time+Voice+Intelligence;Constraint-Safe+Reasoning" alt="Animated Typing" />
+</p>
+
+
 <h1 align="center">ADITYA GAURAV</h1>
 <h3 align="center">AI Systems Architect | Production Engineering | Multi-Agent Orchestration</h3>
 
@@ -137,8 +142,32 @@ Building production-grade autonomous systems that ship in weeks, not months. Foc
 ---
 
 <div align="center">
+
+## 📊 GITHUB STATS
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaidev&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&border_color=00FF88" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaidev&theme=dark&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=00FF88" alt="GitHub Streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaidev&theme=react-dark&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
+
+</div>
+
+---
+
+
+<div align="center">
   <h3>Looking for production AI systems?</h3>
   <p>Let's talk about your architecture</p>
   <a href="https://adityaai.dev">Visit Portfolio</a> | 
   <a href="mailto:aiexpert@adityaai.dev">Get In Touch</a>
+</div>
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20Future%20of%20AI&fontSize=24&fontColor=fff&animation=twinkling" />
+
 </div>
