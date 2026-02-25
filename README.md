@@ -1,173 +1,111 @@
-# 🎯 ADITYA GAURAV
-
-## AI-Native Systems Architect
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=00FF94&center=true&vCenter=true&width=800&lines=Building+Thinking+Systems;No+localhost+theater.+Only+production+AI;Multi-Agent+Orchestration+%7C+Real-Time+Voice+AI" />
-</a>
-
----
+# ✨ Aditya Gaurav
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  █████╗ ██╗      ██████╗  ██████╗ ██████╗ ██╗███████╗    ██████╗ ███████╗ ██████╗ 
-║ ██╔══██╗██║     ██╔═══██╗██╔═══██╗██╔══██╗██║╚══███╔╝   ██╔═══██╗██╔════╝██╔═══██╗
-║ ███████║██║     ██║   ██║██║   ██║██████╔╝██║  ███╔╝    ██║   ██║█████╗  ██████╔╝
-║ ██╔══██║██║     ██║   ██║██║   ██║██╔══██╗██║ ███╔╝     ██║   ██║██╔══╝  ██╔══██╗
-║ ██║  ██║███████╗╚██████╔╝╚██████╔╝██║  ██║██║███████╗   ╚██████╔╝███████╗██║  ██║
-║ ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+### 🚀 AI Systems Architect | Multi-Agent Orchestration | Production Engineer
 
-**Building production AI systems** where reliability, latency, and execution quality are first-class requirements.
+**Building thinking systems that don't break in production.**
+
+[🌐 Portfolio](https://adityaai.dev) • [💼 LinkedIn](https://linkedin.com/in/aditya-gaurav-2761b3318) • [𝕏 Twitter](https://x.com/aditya_ai_dev) • [📧 Email](mailto:aiexpert@adityaai.dev)
 
 </div>
 
 ---
 
-## 🚦 System Status
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| 🟢 **SYSTEM** | ⚡ **LATENCY** | 🚀 **SYSTEMS** |
-| Operational | <500ms | 3 Live |
-| | | |
-| 📜 **CERTS** | ⌘ **FOCUS** | 💡 **MODE** |
-| 23 Credentials | Production | Architecture-First |
-
-</div>
-
----
-
-## 🎯 Core Competencies
+## 🎯 Core Philosophy
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  ⌘ ARCHITECTURE-FIRST    →  Outcome-driven engineering                    │
-│  ⚡ AUTONOMOUS WORKFLOWS  →  Multi-agent orchestration                    │
-│  🎯 LOW-LATENCY LOOPS     →  Real-world UX (<500ms)                       │
-│  🔒 CONSTRAINT REASONING  →  High-stakes production systems               │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+I don't build frameworks.
+I build Production Systems.
+Systems that think. Systems that scale. Systems that work.
 ```
 
 ---
 
-## 📊 Impact Matrix
+## 🔥 What I'm Working On
 
-<div align="center">
+### Production Systems
 
-| ⚡ Workflow Acceleration | 🎤 Real-Time Voice | 🌍 Production | ☁️ Cloud Credibility |
-|:---:|:---:|:---:|:---:|
-| **95-96%** efficiency gains | **<500ms** interaction loop | **3** live systems deployed | **23** credentials |
+**F.R.I.D.A.Y** → Engineering Visual Intelligence  
+*96% faster diagnostics (120 min → 5 min)* | [Live Demo](https://friday-demo-neon.vercel.app/) | [Code](https://github.com/adityaidev/FRIDAY)
 
-</div>
+**Sentinel** → Autonomous Competitive Intelligence  
+*95% faster research (days → minutes)* | [Live Demo](https://sentinel-demo-coral.vercel.app/) | [Code](https://github.com/adityaidev/Sentinel)
 
----
-
-## 🖥️ Live Systems
-
-<div align="center">
-
-| System | Domain | Impact | Demo |
-|:---:|:---:|:---:|:---:|
-| **F.R.I.D.A.Y** | Engineering Visual Intelligence | 96% faster diagnostics (120min → 5min) | [🔗](https://friday-demo-neon.vercel.app) |
-| **Sentinel** | Competitive Intelligence | 95% faster research cycles | [🔗](https://sentinel-demo-coral.vercel.app) |
-| **EdGrab** | AI Tutoring + Voice | <500ms tutoring loop | [🔗](https://edgrab-demo.vercel.app) |
-
-</div>
+**EdGrab** → Real-Time AI Tutoring  
+*<500ms voice loop with memory* | [Live Demo](https://edgrab-demo.vercel.app/) | [Code](https://github.com/adityaidev/EdGrab-)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages:** Python • TypeScript • JavaScript • SQL
 
-```
-  PYTHON    TYPESCRIPT    REACT    NEXT.JS    NODE.JS    THREE.JS
-     ○────────●────────●────────●────────●────────●────────○
-              │
-              │  ┌─────────────────────────────────────┐
-              └──┤  AGENT PIPELINE                     │
-                 │  Router → Hunter → Scraper →        │
-                 │  Analyst → Reporter                  │
-                 └─────────────────────────────────────┘
-                              │
-                              │  ┌─────────────────────────────────────┐
-                              └──┤  INFRASTRUCTURE                    │
-                                 │  Cloud Run • Vertex AI • Serverless │
-                                 └─────────────────────────────────────┘
-```
+**Frameworks:** Next.js • React • Node.js • LangChain • FastAPI
 
-</div>
+**AI/ML:** Claude Opus • Gemini 3 Pro • Vertex AI • Multi-Agent Systems
+
+**Infrastructure:** Google Cloud • Docker • PostgreSQL • Vercel
+
+**Specialization:** Agentic AI • Real-time systems • Enterprise reliability
+
+---
+
+## 🎖️ Credentials
+
+✅ **Google Cloud** - 19 Certified Skill Badges  
+✅ **Oracle** - AI Vector Search, Data Science, OCI  
+✅ **OpenAI** - Generative AI Mastery
+
+[View All →](https://www.credly.com/users/aditya-gaurav.12219822/badges)
 
 ---
 
 ## 📦 Open Source
 
-<div align="center">
-
-| Project | Description | Link |
-|:---:|:---|:---:|
-| **owl07** | MCP Server Manager | [📦](https://github.com/adityaidev/owl07) |
-| **twitter-mcp** | X Automation MCP | [🐦](https://github.com/adityaidev/twitter-mcp) |
-| **linkedin-mcp** | LinkedIn Sales Navigator | [💼](https://github.com/adityaidev/Lindin-Sales-and-Navigator-MCP) |
-
-</div>
+| Project | Purpose | Status |
+|---------|---------|--------|
+| [owl07](https://github.com/adityaidev/owl07) | MCP Server Manager | Active |
+| [twitter-mcp](https://github.com/adityaidev/twitter-mcp) | X Automation | Prod Ready |
+| [linkedin-mcp](https://github.com/adityaidev/Lindin-Sales-and-Navigator-MCP) | LinkedIn Lead Gen | Active |
 
 ---
 
-## 🏆 Credentials
+## 💡 Core Competencies
 
-| Certification | Verification |
-|:---|:---|
-| Google Cloud Skill Badges (19) | [Credly Profile](https://www.credly.com/users/aditya-gaurav.12219822/badges#credly) |
-| Oracle AI Vector Search Professional | [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E4FDD09770E6D237020A75DD7D9024DDDF4142098FA1641EAAB2CB8D2B2B69F) |
-| Oracle Data Science Professional | [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1A6F1D38013F675295039B1C4A4A22090C00355209CE06886B95D7DF8D8D08CB) |
-| Oracle Cloud Infrastructure Associate | [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=303E588DC05D0D742ED0260BD00EFB0396791BC84690D91BF007C884D8F85FED) |
-| OpenAI Generative AI Mastery | [Link](https://openai-buildathon.nxtwave.tech/certificate?cid=0VTIX2094G) |
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaidev&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaidev&theme=github_dark" />
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaidev&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaidev&theme=github_dark" />
-  <img width="47%" src="https://streak-stats.demolab.com?user=adityaidev&theme=dark&hide_border=true&background=0D1117&ring=00FF94&fire=00D4FF&currStreakLabel=00FF94" />
-</div>
+• **Multi-Agent Orchestration** - Reliable agent coordination  
+• **Real-Time Voice AI** - Sub-500ms interaction loops  
+• **Production Deployments** - Systems that scale & stay up  
+• **System Architecture** - Design for reliability first  
+• **LLM Integration** - Prompt engineering & agent patterns  
+• **Enterprise Grade** - Monitoring, logging, reliability  
 
 ---
 
-## 🔗 Connect
+## 📊 GitHub Stats
 
-<div align="center">
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaidev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/adityaidev)
 
-[🌐 Portfolio](https://adityaai.dev) · [💼 LinkedIn](https://www.linkedin.com/in/aditya-gaurav-2761b3318) · [𝕏 X](https://x.com/aditya_ai_dev) · [📧 Email](mailto:aiexpert@adityaai.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaidev&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&layout=compact)](https://github.com/adityaidev)
 
-</div>
+---
+
+## 🚀 Let's Build
+
+Working on production AI? Need architecture guidance? Let's talk.
+
+**[Book a Call](https://cal.com/adityagaurav)** • **[Portfolio](https://adityaai.dev)** • **[Email Me](mailto:aiexpert@adityaai.dev)**
 
 ---
 
 <div align="center">
 
-*Building autonomous systems that think deeper, respond faster, and stay reliable in production.*
+### From Concept → Architecture → Production in Weeks
 
-![Visitor Count](https://komarev.com/ghpvc/?username=adityaidev&label=Profile%20Views&color=00FF94&style=for-the-badge)
+**Not months. Not frameworks. Systems that work.**
 
-*Thanks for visiting. Let's build something extraordinary together.* 🚀
+---
+
+*Made by Aditya Gaurav • Sonipat, India • 2026*
 
 </div>
