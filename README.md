@@ -145,7 +145,7 @@ Building production-grade autonomous systems that ship in weeks, not months. Foc
 
 ## 📊 GITHUB STATS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaidev&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&border_color=00FF88" alt="GitHub Stats" />
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaidev&theme=dark&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=00FF88" alt="GitHub Streak" />
 
 <br/>
